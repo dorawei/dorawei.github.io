@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'SoftGO L';
+  src: url('files/softgo/softgol.eot');
+  src:
+    url('files/softgo/softgol.eot?#font-spider') format('embedded-opentype'),
+    url('files/softgo/softgol.woff') format('woff'),
+    url('files/softgo/softgol.ttf') format('truetype'),
+    url('files/softgo/softgol.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
