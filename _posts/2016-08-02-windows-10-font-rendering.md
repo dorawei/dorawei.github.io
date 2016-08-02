@@ -18,7 +18,7 @@ layout: post
 
 那就開始折騰下吧：
 
-首先去[這裏](http://www.su2lin.com/mactype-beta-dev_20160216-release/){:target="_blank"}下載新的 Beta 版 MacType，再去[這裏](http://silight.hatenablog.jp/entry/MacTypePatch){:target="_blank"}下載補丁，按照說明（有英文版）安裝好後，Windows 10上的渲染就會變得可以了。
+首先去 [這裏](http://www.su2lin.com/mactype-beta-dev_20160216-release/){:target="_blank"} 下載新的 Beta 版 MacType，再去 [這裏](http://silight.hatenablog.jp/entry/MacTypePatch){:target="_blank"} 下載補丁，按照說明（有英文版）安裝好後，Windows 10上的渲染就會變得可以了。
 
 測試在註冊表中的 FontSubstitutes 中將 PMingLiu、MingLiu、NSimSun、SimSun映射至 Microsoft Jhenghei 後終於可以擺脫新細明體。
 
@@ -43,7 +43,7 @@ layout: post
 
 ![不再fallback到 PMingLiU了，謝天謝地](https://ooo.0o0.ooo/2016/08/02/57a0c31352a8b.png)
 
-導出的註冊表[下載](https://dorawei.xyz/assets/files/20160802/trail-seems good-reg.7z){:target="_blank"}
+導出的註冊表 [下載](https://dorawei.xyz/assets/files/20160802/trail-seems good-reg.7z){:target="_blank"} 
 
 #希望不要再突然變差
 
