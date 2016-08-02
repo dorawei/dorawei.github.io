@@ -1,16 +1,17 @@
 ---
-title: "Windows 10 字體渲染"
+title: Windows 10 字體渲染
 date: 2016-08-02 15:30:00 Z
-layout: post
 tags:
 - Windows
 - notes
 - MacType
 - Chrome
 - font rendering
+layout: post
 excerpt: Windows 的字體渲染永遠是個難題。
 comments: true
 ---
+
 不久前 Chrome 穩定版更新到了 52，正式去掉了禁用 DirectWrite 的 flag 選項，這使得 MacType 變得對 Chrome 無效。
 
 在退回 51 版的同時，了解到新的 Beta 版 MacType 以及針對 Windows 10 DirectWrite 的補丁。
