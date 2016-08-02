@@ -1,5 +1,5 @@
 ---
-title: Windows 10 字體渲染
+title: Windows 10 Font Rendering
 date: 2016-08-02 15:30:00 Z
 tags:
 - Windows
