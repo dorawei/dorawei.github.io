@@ -7,9 +7,9 @@ tags:
 - MacType
 - Chrome
 - font rendering
-layout: post
 excerpt: Windows 的字體渲染永遠是個難題。
 comments: true
+layout: post
 ---
 
 不久前 Chrome 穩定版更新到了 52，正式去掉了禁用 DirectWrite 的 flag 選項，這使得 MacType 變得對 Chrome 無效。
@@ -18,7 +18,7 @@ comments: true
 
 那就開始折騰下吧：
 
-首先去[這裏](http://www.su2lin.com/mactype-beta-dev_20160216-release/)下載新的 Beta 版 MacType，再去[這裏](http://silight.hatenablog.jp/entry/MacTypePatch)下載補丁，按照說明（有英文版）安裝好後，Windows 10上的渲染就會變得可以了。
+首先去[這裏](http://www.su2lin.com/mactype-beta-dev_20160216-release/){:target="_blank"}下載新的 Beta 版 MacType，再去[這裏](http://silight.hatenablog.jp/entry/MacTypePatch){:target="_blank"}下載補丁，按照說明（有英文版）安裝好後，Windows 10上的渲染就會變得可以了。
 
 測試在註冊表中的 FontSubstitutes 中將 PMingLiu、MingLiu、NSimSun、SimSun映射至 Microsoft Jhenghei 後終於可以擺脫新細明體。
 
@@ -43,7 +43,7 @@ comments: true
 
 ![不再fallback到 PMingLiU了，謝天謝地](https://ooo.0o0.ooo/2016/08/02/57a0c31352a8b.png)
 
-導出的註冊表[下載](https://dorawei.xyz/assets/files/20160802/trail-seems good-reg.7z)
+導出的註冊表[下載](https://dorawei.xyz/assets/files/20160802/trail-seems good-reg.7z){:target="_blank"}
 
 #希望不要再突然變差
 
