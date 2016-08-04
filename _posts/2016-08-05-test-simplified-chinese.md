@@ -1,10 +1,10 @@
 ---
 title: "簡體中文測試"
 date: 2016-08-05 00:55:00 +08:00
-comments: true
 tags:
-  - Test
-  - Web Font
+- Test
+- Web Font
+comments: true
 layout: post
 ---
 
