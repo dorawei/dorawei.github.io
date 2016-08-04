@@ -1,12 +1,12 @@
 ---
 title: "終於不再是Under Construction"
-date: 2016-08-01 08:25:00 Z
+date: 2016-08-01 16:25:00 +08:00
 tags:
 - test
 - notes
-layout: post
 excerpt: So the actually first post for the new site.
 comments: true
+layout: post
 ---
 
 # Finally it has got rid of the "Under Construction" title.
@@ -25,3 +25,5 @@ CJK Unified Ideographs Extension D(𫝀	𫝁	𫝂	𫝃	𫝄	𫝅	𫝆	𫝇	𫝈	
 Korean. Lorem Ipsum 사용할 수있는 구절 많은 변화가 있지만, 대부분의, 주입 유머로, 어떤 형태의 변경을 입었거나 조금이라도 믿을 보이지 않는 ...
 
 ![Screenshot](https://ooo.0o0.ooo/2016/08/01/579f0b2bdcc34.png)
+
+> This is a quote, 华 话 體 能 おめでとう コントロール
