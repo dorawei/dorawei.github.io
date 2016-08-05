@@ -18,4 +18,4 @@ Download from:
 * [Baiduyun](http://pan.baidu.com/s/1bNMKjW){:target="_blank"} (9o9x)
 
 ![doraemon-1.png](https://ooo.0o0.ooo/2016/08/05/57a4b5d022e5a.png)
-<center>©藤子プロ・小学館</center>
+<center>ドラえもん画像 © 藤子プロ・小学館</center>
