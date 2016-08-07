@@ -24,24 +24,37 @@ layout: post
 
 但重啓後出現 MacType 失效的情況。
 
-![MacType 失效](https://ooo.0o0.ooo/2016/08/02/57a0c28508a5e.png)
+<figure>
+	<img src="https://ooo.0o0.ooo/2016/08/02/57a0c28508a5e.png">
+	<figcaption>MacType 失效</figcaption>
+</figure>
 
 選擇「註冊表加載模式」後再更改 FontSubstitutes 沒有問題（至少目前來說）。
 
 安裝日文字體後出現異常的中日文回退。
 
-![異常的中日文回退 Meiryo UI Bold](https://ooo.0o0.ooo/2016/08/02/57a0c2270c7f0.jpg)
-![異常的中日文回退 Meiryo UI Bold](https://ooo.0o0.ooo/2016/08/02/57a0c226e4849.jpg)
+<figure class="half">
+	<img src="https://ooo.0o0.ooo/2016/08/02/57a0c2270c7f0.jpg">
+	<img src="https://ooo.0o0.ooo/2016/08/02/57a0c226e4849.jpg">
+	<figcaption>異常的中日文回退 Meiryo UI Bold</figcaption>
+</figure>
 
 重啓後問題消失。
 
-![異常的中日文回退問題消失](https://ooo.0o0.ooo/2016/08/02/57a0c2b092388.png)
+<figure>
+	<img src="https://ooo.0o0.ooo/2016/08/07/57a757eb196f1.png">
+	<figcaption>異常的中日文回退問題消失</figcaption>
+</figure>
 
-目前看起來都還不錯。
+<figure>
+	<img src="https://ooo.0o0.ooo/2016/08/07/57a757ffd366c.png">
+	<figcaption>目前看起來還不錯</figcaption>
+</figure>
 
-![目前看起來還不錯](https://ooo.0o0.ooo/2016/08/02/57a0c2e450a1c.png)
-
-![不再fallback到 PMingLiU了，謝天謝地](https://ooo.0o0.ooo/2016/08/02/57a0c31352a8b.png)
+<figure>
+	<img src="https://ooo.0o0.ooo/2016/08/07/57a75849bfda0.png">
+	<figcaption>不再fallback到 PMingLiU了，謝天謝地</figcaption>
+</figure>
 
 導出的註冊表[下載](https://dorawei.xyz/assets/files/20160802/trail-seems good-reg.7z){:target="_blank"} 
 
