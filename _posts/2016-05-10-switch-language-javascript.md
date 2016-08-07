@@ -1,16 +1,17 @@
 ---
 title: JavaScript切換語言重定向
-date: 2016-05-10 10:38:38
+date: 2016-05-10 18:38:38 +08:00
 categories:
 - Internet
 tags:
-- 網站
+- "網站"
 - JavaScript
-- 中文轉換
+- "中文轉換"
 comments: true
 excerpt: Just a simply JavaScript example.
 layout: post
 ---
+
 雖然有直接進行簡繁轉換的JavaScript但是有時候會不準確啊，再加上詞彙的轉換什麼的……還是分開吧。
 於是就用JavaScript做了一個切換語言的選項。
 

@@ -1,6 +1,6 @@
 ---
 title: Windows 10 Font Rendering
-date: 2016-08-02 15:30:00 Z
+date: 2016-08-02 23:30:00 +08:00
 tags:
 - Windows
 - notes

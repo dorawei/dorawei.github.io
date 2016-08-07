@@ -1,16 +1,17 @@
 ---
-title: 用 Adobe Auditon 消音
-date: 2016-05-10 18:05:55
+title: "用 Adobe Auditon 消音"
+date: 2016-05-11 02:05:55 +08:00
 categories:
 - Tools
 tags:
 - Audition
-- 聲音處理
+- "聲音處理"
 - Adobe
 comments: true
 excerpt: Easy ways to remove vocal sounds.
 layout: post
 ---
+
 去除人聲只留下背景音，也就是消音。用Adobe Auditon只需簡單幾步。
 
 打開Audition，載入你想要消音的聲音檔案。

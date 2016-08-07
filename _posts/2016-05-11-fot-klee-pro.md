@@ -1,17 +1,18 @@
 ---
-title: 字體與番：Fontworks Klee（クレー ）
-date: 2016-05-11 11:21:00
+title: "字體與番：Fontworks Klee（クレー ）"
+date: 2016-05-11 19:21:00 +08:00
 categories:
 - Typography
 tags:
 - Fontworks
-- 字體
+- "字體"
 - Anime
 - FOT-Klee Pro
 comments: true
 excerpt: How FOT-Klee is used on Animes.
 layout: post
 ---
+
 Fontworks的Klee（クレー ）這款字體出來已經很久了，最近又在某舊番上看到了Klee的身影。
 
 {% fi https://ooo.0o0.ooo/2016/05/10/5731f81dbaa29.jpg, 境界的彼方, 境界的彼方 %}

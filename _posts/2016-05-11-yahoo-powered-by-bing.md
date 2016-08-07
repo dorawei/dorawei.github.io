@@ -1,17 +1,18 @@
 ---
 title: Yahoo 的引擎由 Bing 驅動？
-date: 2016-05-10 18:52:52
+date: 2016-05-11 02:52:52 +08:00
 categories:
 - Internet
 tags:
 - Yahoo
 - Bing
-- 搜尋引擎
-- 吐嘈
+- "搜尋引擎"
+- "吐嘈"
 comments: true
 excerpt: So is Yahoo actually powered by Google or Bing?
 layout: post
 ---
+
 >Submit Your Site
 
 >The goal of Yahoo Search is to discover and index all of the content available on the web to provide the best possible search experience to users. The Yahoo Search index, which contains several billion web pages, is more than 99% populated through the free crawl process. Yahoo also offers several ways for content providers to submit web pages and content directly to the Yahoo Search index:
