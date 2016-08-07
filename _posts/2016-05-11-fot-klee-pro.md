@@ -15,7 +15,10 @@ layout: post
 
 Fontworks的Klee（クレー ）這款字體出來已經很久了，最近又在某舊番上看到了Klee的身影。
 
-{% fi https://ooo.0o0.ooo/2016/05/10/5731f81dbaa29.jpg, 境界的彼方, 境界的彼方 %}
+<figure>
+	<img src="https://ooo.0o0.ooo/2016/05/10/5731f81dbaa29.jpg">
+	<figcaption>境界的彼方</figcaption>
+</figure>
 
 沒錯，前面所說的「某舊番」就是2013年的『境界的彼方』，其OP以及每話標題均使用了FOT-Klee Pro。
 
