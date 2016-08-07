@@ -33,7 +33,7 @@ layout: post
 
 安裝日文字體後出現異常的中日文回退。
 
-<figure class="half">
+<figure>
 	<img src="https://ooo.0o0.ooo/2016/08/02/57a0c2270c7f0.jpg">
 	<img src="https://ooo.0o0.ooo/2016/08/02/57a0c226e4849.jpg">
 	<figcaption>異常的中日文回退 Meiryo UI Bold</figcaption>
