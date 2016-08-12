@@ -1,5 +1,5 @@
 ---
-title: Font Spider——Webフォントのローカルコンプレッサー
+title: FontSpider——Webフォントのローカルコンプレッサー
 date: 2016-08-12 22:08:00 +08:00
 tags:
 - Web Font
@@ -7,9 +7,10 @@ tags:
 layout: post
 ---
 
-フォント・スパイダー（font-spider）は、Webフォントを圧縮するためのスマートなツールです，Webページに使用されるWebフォントを分析し、必要に応じて圧縮することができます。
+フォント・スパイダー（FontSpider）は、Webフォントを圧縮するためのスマートなツールです，Webページに使用されるWebフォントを分析し、必要に応じて圧縮することができます。
 
 公式サイト：<http://font-spider.org>
+
 Github：<https://github.com/aui/font-spider>
 
 ## 特徴
