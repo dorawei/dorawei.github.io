@@ -7,16 +7,10 @@ tags:
 layout: post
 ---
 
-# font-spider 
-
-[![NPM Version][npm-image]][npm-url]
-[![NPM Downloads][downloads-image]][downloads-url]
-[![Node.js Version][node-version-image]][node-version-url]
-[![Build Status][travis-ci-image]][travis-ci-url]
-
 フォント・スパイダー（font-spider）は、Webフォントを圧縮するためのスマートなツールです，Webページに使用されるWebフォントを分析し、必要に応じて圧縮することができます。
 
 公式サイト：<http://font-spider.org>
+Github：<https://github.com/aui/font-spider>
 
 ## 特徴
 
@@ -26,7 +20,7 @@ layout: post
 
 ## インストール
 
-[nodejs](http://nodejs.org)のインストールを完了した後、以下のコードを実行します：
+[Node.js](http://nodejs.org)のインストールを完了した後、以下のコードを実行します：
 
 ``` shell
 npm install font-spider -g
@@ -121,7 +115,7 @@ font-spider --map "http://font-spider.org/font,/Website/font" http://font-spider
 
 ## API
 
-フォント・スパイダーはクローラーと圧縮モジュールが含みます、APIのドキュメント：[API.md](./API.md)
+フォント・スパイダーはクローラーと圧縮モジュールが含みます、APIのドキュメント：[API.md](https://github.com/aui/font-spider/blob/master/API.md)
 
 ## 制限
 
