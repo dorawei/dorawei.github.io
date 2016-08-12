@@ -9,9 +9,9 @@ layout: post
 
 フォント・スパイダー（FontSpider）は、Webフォントを圧縮するためのスマートなツールです，Webページに使用されるWebフォントを分析し、必要に応じて圧縮することができます。
 
-公式サイト：<http://font-spider.org>
+公式サイト：<http://font-spider.org>{:target="_blank"}
 
-Github：<https://github.com/aui/font-spider>
+Github：<https://github.com/aui/font-spider>{:target="_blank"}
 
 ## 特徴
 
@@ -21,7 +21,7 @@ Github：<https://github.com/aui/font-spider>
 
 ## インストール
 
-[Node.js](http://nodejs.org)のインストールを完了した後、以下のコードを実行します：
+[Node.js](http://nodejs.org){:target="_blank"}のインストールを完了した後、以下のコードを実行します：
 
 ``` shell
 npm install font-spider -g
@@ -111,12 +111,12 @@ font-spider --map "http://font-spider.org/font,/Website/font" http://font-spider
 
 ## プラグインの構築
 
-- [grunt-font-spider](https://github.com/aui/grunt-font-spider)
-- [gulp-font-spider](https://github.com/aui/gulp-font-spider)
+- [grunt-font-spider](https://github.com/aui/grunt-font-spider){:target="_blank"}
+- [gulp-font-spider](https://github.com/aui/gulp-font-spider){:target="_blank"}
 
 ## API
 
-フォント・スパイダーはクローラーと圧縮モジュールが含みます、APIのドキュメント：[API.md](https://github.com/aui/font-spider/blob/master/API.md)
+フォント・スパイダーはクローラーと圧縮モジュールが含みます、APIのドキュメント：[API.md](https://github.com/aui/font-spider/blob/master/API.md){:target="_blank"}
 
 ## 制限
 
@@ -127,15 +127,6 @@ font-spider --map "http://font-spider.org/font,/Website/font" http://font-spider
 
 ## 関連リンク
 
-- [TTF版の源ノ角ゴシック](https://mega.nz/#!PZxFSYQI!ICvNugaFX_y4Mh003-S3fao1zU0uNpeSyprdmvHDnwc)
-- [grunt-font-spider](https://github.com/aui/grunt-font-spider)
-- [gulp-font-spider](https://github.com/aui/gulp-font-spider)
-
-[npm-image]: https://img.shields.io/npm/v/font-spider.svg
-[npm-url]: https://npmjs.org/package/font-spider
-[node-version-image]: https://img.shields.io/node/v/font-spider.svg
-[node-version-url]: http://nodejs.org/download/
-[downloads-image]: https://img.shields.io/npm/dm/font-spider.svg
-[downloads-url]: https://npmjs.org/package/font-spider
-[travis-ci-image]: https://travis-ci.org/aui/font-spider.svg?branch=master
-[travis-ci-url]: https://travis-ci.org/aui/font-spider
+- [TTF版の源ノ角ゴシック](https://mega.nz/#!PZxFSYQI!ICvNugaFX_y4Mh003-S3fao1zU0uNpeSyprdmvHDnwc){:target="_blank"}
+- [grunt-font-spider](https://github.com/aui/grunt-font-spider){:target="_blank"}
+- [gulp-font-spider](https://github.com/aui/gulp-font-spider){:target="_blank"}
