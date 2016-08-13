@@ -4,7 +4,7 @@ date: 2016-08-13 21:58:00 +08:00
 tags:
 - Web Font
 comments: true
-excerpt: 
+excerpt: "分享一些免費的中文 Web Font 解決方案。"
 layout: post
 ---
 
@@ -16,7 +16,7 @@ layout: post
 
 但由於中文字體的開發及提供服務的成本較大，大部分的中文 Web Font 服務都是按照 PV（Page View）數來收費的。
 
-但對像本站這樣的個人網站來說，這筆費用還是不小的。下面就和大家分享一下免費且好用的中文 Web Font 解決方案。
+但對像本站這樣的個人網站來說，這筆費用還是不小的。下面就和大家分享一些免費且好用的中文 Web Font 解決方案。
 
 # FontSpider（字蛛）
 
