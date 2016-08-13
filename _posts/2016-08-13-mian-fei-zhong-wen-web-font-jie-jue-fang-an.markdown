@@ -8,7 +8,7 @@ excerpt:
 layout: post
 ---
 
-在 2016 年的今天，英文的 Web Font 服務已在網上遍地開花，從提供各種開源字體的免費 [Google Fonts](https://fonts.google.com/)){:target="_blank"} 到各種專業字厰提供的服務，在網站中使用英文 Web Font 已經簡便到了一行`@import`CSS 代碼。
+在 2016 年的今天，英文的 Web Font 服務已在網上遍地開花，從提供各種開源字體的免費 [Google Fonts](https://fonts.google.com/){:target="_blank"} 到各種專業字厰提供的服務，在網站中使用英文 Web Font 已經簡便到了一行`@import`CSS 代碼。
 
 那中文 Web Font 又如何呢？
 
@@ -24,11 +24,13 @@ layout: post
 
 適用於不常變動的靜態網站。
 
-地址：<https://github.com/aui/font-spider>){:target="_blank"}
+地址：<https://github.com/aui/font-spider>{:target="_blank"}
 
 # Google Font Early Access
 
 Google Font Early Access 中提供 cwTeX 黑體、仿宋、明體、楷體及圓體五種繁體中文 Web Font，以及思源黑體系列。但 Google Font 並不提供動態組字功能，而是壓縮的完整字型。比如思源黑體約 2.5 MB，所以可能會導致過長的轉入時間。
+
+地址：<https://www.google.com/fonts/earlyaccess>{:target="_blank"}
 
 # TypeSqure
 
@@ -36,7 +38,7 @@ Google Font Early Access 中提供 cwTeX 黑體、仿宋、明體、楷體及圓
 
 免費可選一個網域和一個字型。每月一萬PV。提供動態組字功能。比如本站所用標題字體爲 TypeSqure 提供的 KaiMin Tsuki Heavy，載入這個頁面所需的字型單個檔案大小僅 KB。
 
-地址：<http://typesquare.com/zh_tw/>){:target="_blank"}
+地址：<http://typesquare.com/zh_tw/>{:target="_blank"}
 
 # Adobe Typekit
 
@@ -46,7 +48,4 @@ Google Font Early Access 中提供 cwTeX 黑體、仿宋、明體、楷體及圓
 
 地址：<https://typekit.com/>{:target="_blank"}
 
-
-
-
-
+#Enjoy.
