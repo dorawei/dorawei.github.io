@@ -36,13 +36,13 @@ Google Font Early Access 中提供 cwTeX 黑體、仿宋、明體、楷體及圓
 
 由日本最大的字型廠商 Morisawa 提供的 Web Font 服務。包含 Morisawa 的日文字型及文鼎的中文字型。
 
-免費可選一個網域和一個字型。每月一萬PV。提供動態組字功能。比如本站所用標題字體爲 TypeSqure 提供的 KaiMin Tsuki Heavy，載入這個頁面所需的字型單個檔案大小僅 KB。
+免費可選一個網域和一個字型。每月一萬PV。提供動態組字功能。比如本站所用標題字體爲 TypeSqure 提供的 KaiMin Tsuki Heavy，載入這個頁面所需的字型單個檔案大小僅 18 KB。
 
 地址：<http://typesquare.com/zh_tw/>{:target="_blank"}
 
 # Adobe Typekit
 
-由 Adobe 提供的 Web Font 服務。免費可選最多兩套字型。每月2.5萬PV。提供動態組字功能，比如本站所用正文字體爲 Typekit 提供的思源黑體，載入這個頁面所需的字型單個檔案大小僅 KB。
+由 Adobe 提供的 Web Font 服務。免費可選最多兩套字型。每月2.5萬PV。提供動態組字功能，比如本站所用正文字體爲 Typekit 提供的思源黑體，載入這個頁面所需的字型單個檔案大小僅 140 KB。
 
 免費方案包含思源黑體系列和日文平成系列字體。
 
