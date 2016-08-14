@@ -19,7 +19,7 @@
 	button {
 		top: 0;
 		left: 0;
-		background: $comp-color;
+		background: $material_liteblue_A700;
 		border: none;
 		width: 48px;
 		height: 45px;
@@ -29,7 +29,7 @@
 		cursor: pointer;
 		outline: none;
 		@include border-radius(0,3px,0,0);
-		opacity: 0.6;
+		opacity: 0.7;
 		@media #{$notsmall} {
 			@include border-radius(3px,3px,3px,3px);
 		}
@@ -67,6 +67,7 @@
 			margin:0;
 			padding: 15px 20px 0;
 			color: rgba($white,0.9);
+			@include font-rem(46);
 		}
 		p {
 			margin: 0;
@@ -360,7 +361,7 @@ All this is done for any sub-level being entered.
 .dl-menuwrapper button:hover,
 .dl-menuwrapper button.dl-active,
 .dl-menuwrapper ul {
-	background: $comp-color;
+	background: $material_liteblue_A700;
 }
 // Fix for IE
 .dl-menu li {
