@@ -93,17 +93,17 @@ a {
   transition: color .4s;
   color: $color_shark;
   &:link {
-  	color: $color_shark;
+  	color: $material_liteblue_A700;
   }
   &:visited {
   	color: $color_tuatara;
   }
   &:hover {
-  	color: $red;
+  	color: material_blue_500;
   }
   &:active {
   	transition: color .3s;
-  	color: $maroon;
+  	color: $material_liteblue_600;
   }
 }
 
