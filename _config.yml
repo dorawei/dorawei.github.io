@@ -8,8 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-bio: A student who's interested in Web Design, ACG, Typography, Languages, and many
-  other cool things.
+bio: "#languages #typography #photography #web design #acgn"
 description: Thoughts, stories and ideas.
 reading_time: false
 words_per_minute: 200
