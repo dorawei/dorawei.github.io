@@ -1,3 +1,8 @@
+---
+title: New Rime For Windows
+date: 2015-10-11 00:00:00 +08:00
+---
+
 
 ---
 title: 全新 Windows 版 Rime 輸入法試用心得
