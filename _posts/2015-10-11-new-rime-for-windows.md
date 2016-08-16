@@ -16,7 +16,7 @@ layout: post
 
 下載地址：
 > 散裝的 rime with gits
-> https://bintray.com/lotem/rime/rime-gits/0
+https://bintray.com/lotem/rime/rime-gits/0
 
 ## 安裝 ##
 
