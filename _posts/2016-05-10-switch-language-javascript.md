@@ -1,8 +1,6 @@
 ---
 title: JavaScript切換語言重定向
 date: 2016-05-10 18:38:38 +08:00
-categories:
-- Internet
 tags:
 - "網站"
 - JavaScript

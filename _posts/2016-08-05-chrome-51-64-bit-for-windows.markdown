@@ -2,7 +2,7 @@
 title: Chrome 51 64-bit for Windows
 date: 2016-08-05 23:29:00 +08:00
 tags:
-- tools
+- Tools
 - Windows
 - Chrome
 comments: true

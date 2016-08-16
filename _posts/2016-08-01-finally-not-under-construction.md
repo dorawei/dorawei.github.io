@@ -2,8 +2,8 @@
 title: "終於不再是Under Construction"
 date: 2016-08-01 16:25:00 +08:00
 tags:
-- test
-- notes
+- Test
+- Notes
 excerpt: So the actually first post for the new site.
 comments: true
 layout: post

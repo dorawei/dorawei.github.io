@@ -1,13 +1,10 @@
 ---
 title: Yahoo 的引擎由 Bing 驅動？
 date: 2016-05-11 02:52:52 +08:00
-categories:
-- Internet
 tags:
 - Yahoo
 - Bing
-- "搜尋引擎"
-- "吐嘈"
+- "Search Engine"
 comments: true
 excerpt: So is Yahoo actually powered by Google or Bing?
 layout: post

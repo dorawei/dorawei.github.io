@@ -1,8 +1,6 @@
 ---
 title: "字體與番：Fontworks Klee（クレー ）"
 date: 2016-05-11 19:21:00 +08:00
-categories:
-- Typography
 tags:
 - Fontworks
 - "字體"
