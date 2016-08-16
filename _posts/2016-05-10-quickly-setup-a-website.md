@@ -1,6 +1,6 @@
 ---
-title: 以最廉價的方式快速建站
-date: 2016-05-09 19:08:56
+title: "以最廉價的方式快速建站"
+date: 2016-05-10 03:08:56 +08:00
 tags:
 - Web
 - Domain
@@ -9,6 +9,7 @@ excerpt: Quickly set up a new website.
 comments: true
 layout: post
 ---
+
 _Namecheap又在大促，.xyz域名只要0.44刀！_
 於是便有了這個新的域名，索性寫一篇文章好了，說不定可以對誰有所幫助。
 
