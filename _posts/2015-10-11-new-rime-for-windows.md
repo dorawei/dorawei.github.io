@@ -1,20 +1,15 @@
 ---
-title: New Rime For Windows
-date: 2015-10-11 00:00:00 +08:00
----
-
-
----
-title: 全新 Windows 版 Rime 輸入法試用心得
+title: "全新 Windows 版 Rime 輸入法試用心得"
 date: 2015-10-11 00:00:00 +08:00
 tags:
-  - Rime
-  - IME
-  - Windows
-excerpt: New Rime IME for Windows.
+- Rime
+- IME
+- Windows
 comments: true
+excerpt: New Rime for Windows.
 layout: post
 ---
+
 新版的小狼毫終於釋出了，採用Google Input Tools作爲前端框架。有望解決之前小狼毫在Windows 8和以上版本中的相容性問題。
 
 ![Notice from developer](https://ooo.0o0.ooo/2016/08/16/57b2eec1e8699.png)
