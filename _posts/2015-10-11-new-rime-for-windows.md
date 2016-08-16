@@ -15,6 +15,7 @@ layout: post
 ![Notice from developer](https://ooo.0o0.ooo/2016/08/16/57b2eec225e63.png)
 
 下載地址：
+
 > 散裝的 rime with gits
 https://bintray.com/lotem/rime/rime-gits/0
 
