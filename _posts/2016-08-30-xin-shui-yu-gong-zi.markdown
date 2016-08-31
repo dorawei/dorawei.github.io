@@ -36,15 +36,20 @@ layout: post
 可以看到「薪水」一詞已從具體的日常所需物演變成了「工資」的意思。
 
 有說法稱在魏晉六朝時，「薪水」便已慢慢成爲日常生活開支費用的意思。
+
 > 如《魏書．盧昶偉》載：「如薪水少急，即可量計。」這裏的「薪水」即爲日常費用。而明朝時曾將俸祿稱為「月費」，但後來又改稱為「柴薪銀」，意思是幫官員解決柴、米、油、鹽這些日常生活費用的支出。
 
 在 Google Books Ngram Viewer 上檢索「薪水」和「工資」的話，會得到如下的結果：
 
-![Google Ngram Result.png](https://ooo.0o0.ooo/2016/08/31/57c6473af06b5.png)
+![Google Ngram Result](https://ooo.0o0.ooo/2016/08/31/57c64c6f789d5.png)
 
 可以看到「工資」一詞在近代的使用增長非常迅速。而在自己的周圍，人們也似乎很少會說「薪水」。此外，「薪水」較之「工資」更給人一種正式和書面語的感覺。
 
 ----
+參見：
+
 [教育部重編國語辭典修訂本](http://dict.revised.moe.edu.tw/){:target="_blank"}
+
 [杯水車薪](http://dict.revised.moe.edu.tw/cgi-bin/cbdic/gsweb.cgi){:target="_blank"}
+
 [Google Ngram Viewer 上的「工資」與「薪水」](https://books.google.com/ngrams/graph?content=%E5%B7%A5%E8%B3%87%2C%E8%96%AA%E6%B0%B4&year_start=1800&year_end=2000&corpus=23&smoothing=3&share=&direct_url=t1%3B%2C%E5%B7%A5%E8%B5%84%3B%2Cc0%3B.t1%3B%2C%E8%96%AA%E6%B0%B4%3B%2Cc0){:target="_blank"}
