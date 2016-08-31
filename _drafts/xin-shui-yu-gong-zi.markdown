@@ -2,7 +2,7 @@
 title: "薪水與工資"
 date: 2016-08-30 20:47:00 +08:00
 comments: true
-excerpt: "薪水與工資"
+excerpt: "薪水與工資的區別。"
 Field name: 
 layout: post
 ---
