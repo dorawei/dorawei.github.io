@@ -33,7 +33,7 @@ layout: post
 
 ![3.png](https://ooo.0o0.ooo/2016/08/31/57c656a22ddb5.png)
 
-有些文章會有「外字」，可以使用[這個](http://www.kabipan.com/computer/mobi/aozora_kanji.html){:target="_blank"}中的工具進行變換。
+有些文章會有「外字」，可以使用[這個](http://www.kabipan.com/computer/mobi/aozora_kanji.html){:target="_blank"}工具進行變換。
 
 或者使用正則表達式查找 `※［＃(.+?)、第(.)水準(.)-(.+?)-(.+?)］` 替換爲 `<\3-\4-\5>`。這樣就只留下 JIS 的文字碼。
 
@@ -41,7 +41,7 @@ layout: post
 
 [JIS X 0213漢字一覧](https://ja.wikipedia.org/wiki/JIS_X_0213%E6%BC%A2%E5%AD%97%E4%B8%80%E8%A6%A7%E3%81%AE1%E9%9D%A2){:target="_blank"}
 
-[JIS第4水準漢字一覧表](http://www13.plala.or.jp/bigdata/jis_4.html）{:target="_blank"}
+[JIS第4水準漢字一覧表](http://www13.plala.or.jp/bigdata/jis_4.html){:target="_blank"}
 
 [JISX0213 InfoCenter](http://www.jca.apc.org/~earthian/aozora/0213.html){:target="_blank"}
 
