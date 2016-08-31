@@ -6,6 +6,7 @@ tags:
 - InDesign
 comments: true
 excerpt: "將「青空文庫」中的作品導入 InDesign 並保留假名標音（ふりがな）"
+layout: post
 ---
 
 [青空文庫](http://www.aozora.gr.jp/){:target="_blank"}中有大量的日文公版書。可以直接在線閱讀或使用其 Web App 獲得不錯的閱讀體驗，但如果想要自己編輯可能就會有些麻煩。這裏記錄一下將其導入 InDesign 中的方法。
