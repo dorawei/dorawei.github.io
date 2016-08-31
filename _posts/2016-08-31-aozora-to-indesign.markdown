@@ -56,6 +56,6 @@ layout: post
 
 ![5.png](https://ooo.0o0.ooo/2016/08/31/57c656a1c2bf3.png)
 
-或者直接使用[這個腳本](http://sysys.blog.shinobi.jp/Entry/34/){:target="_blank"}([備用下載](http://s000.tinyupload.com/index.php?file_id=00335054660285620874){:target="_blank"}) :P
+或者直接使用[這個腳本](http://sysys.blog.shinobi.jp/Entry/34/){:target="_blank"}（[備用下載](http://s000.tinyupload.com/index.php?file_id=00335054660285620874){:target="_blank"}） :P
 
 #Enjoy.
