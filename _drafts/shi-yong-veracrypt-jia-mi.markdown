@@ -45,9 +45,21 @@ layout: post
 
 ![select file](https://ooo.0o0.ooo/2016/09/21/57e21b539e825.jpg)
 
-就像保存其它文件一樣，選擇一個位置，並起一個名字。（可以沒有或任意的後綴／擴展名）
+就像保存其它文件一樣，選擇一個位置，並起一個名字。（可以沒有或任意的後綴／擴展名）然後「保存」（Save）。
 
 ![specify path and file name](https://ooo.0o0.ooo/2016/09/21/57e21bb15d59b.jpg)
+
+確認無誤後就可以「下一步」（Next）了。
+
+![check and next](https://ooo.0o0.ooo/2016/09/21/57e21c395f5f6.jpg)
+
+接下來選擇加密方式。
+
+默認的 [AES](https://zh.wikipedia.org/zh-hant/%E9%AB%98%E7%BA%A7%E5%8A%A0%E5%AF%86%E6%A0%87%E5%87%86){:target='_blank'}-256 是最常見的[加密算法](https://veracrypt.codeplex.com/wikipage?title=Encryption%20Algorithms){:target='_blank'}，在下拉菜單中也可以選擇其它方式或是嵌套多種算法，當然越複雜越安全而時間也會越長。
+
+下面的 [Hash 算法](https://veracrypt.codeplex.com/wikipage?title=Hash%20Algorithms)){:target='_blank'}一般採用預設就可以。然後「下一步」（Next）。
+
+![encryption options](https://ooo.0o0.ooo/2016/09/21/57e21c7e3d8c7.jpg)
 
 
 [^1]: 
