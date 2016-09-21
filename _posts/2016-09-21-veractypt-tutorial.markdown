@@ -3,8 +3,8 @@ title: 使用 VeraCrypt 加密
 date: 2016-09-21 12:40:00 +08:00
 tags:
 - VeraCrypt
-- encryption
 - Tools
+- Encryption
 comments: true
 excerpt: 免費開源加密工具 VeraCrypt 的使用教學。
 layout: post
