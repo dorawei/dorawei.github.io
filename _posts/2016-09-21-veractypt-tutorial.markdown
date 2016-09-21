@@ -60,7 +60,7 @@ layout: post
 
 默認的 [AES](https://zh.wikipedia.org/zh-hant/%E9%AB%98%E7%BA%A7%E5%8A%A0%E5%AF%86%E6%A0%87%E5%87%86){:target='_blank'}-256 是最常見的[加密算法](https://veracrypt.codeplex.com/wikipage?title=Encryption%20Algorithms){:target='_blank'}，在下拉菜單中也可以選擇其它方式或是嵌套多種算法，當然越複雜越安全而時間也會越長。
 
-下面的 [Hash 算法](https://veracrypt.codeplex.com/wikipage?title=Hash%20Algorithms)){:target='_blank'}一般採用預設就可以。然後「下一步」（Next）。
+下面的 [Hash 算法](https://veracrypt.codeplex.com/wikipage?title=Hash%20Algorithms){:target='_blank'}一般採用預設就可以。然後「下一步」（Next）。
 
 ![encryption options](https://ooo.0o0.ooo/2016/09/21/57e21c7e3d8c7.jpg)
 
