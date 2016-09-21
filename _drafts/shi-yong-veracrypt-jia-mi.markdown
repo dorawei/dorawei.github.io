@@ -81,6 +81,50 @@ layout: post
 
 ![created](https://ooo.0o0.ooo/2016/09/21/57e24a1369465.jpg)
 
+## 掛載加密卷
+
+在一開始運行 VeraCrypt 的介面上，最明顯的地方是一列的盤符（drive letter），這些便是用來掛載（mount）加密容器或是加密分區的地方。也就是說把加密卷作爲一個虛擬的分區掛載，從而進行檔案的存取。
+
+![select drive](https://ooo.0o0.ooo/2016/09/21/57e24bb56bcec.jpg)
+
+選擇好後便可以「選擇檔案」（Select File）來掛載了。
+
+![select file](https://ooo.0o0.ooo/2016/09/21/57e24c1f7fc12.jpg)
+
+選擇加密卷並打開。
+
+![select and open](https://ooo.0o0.ooo/2016/09/21/57e24c33e2f54.jpg)
+
+然後點擊「掛載」（Mount）。
+
+![click mount](https://ooo.0o0.ooo/2016/09/21/57e24ca12ffe1.jpg)
+
+這時會提示輸入密碼。如果有密鑰檔案（keyfile）的話也要同時選上「Use keyfiles」並選擇相應的檔案。
+
+![input password](https://ooo.0o0.ooo/2016/09/21/57e24d4ac9c85.jpg）
+
+PRF 算法預設的「自動偵測」（autodetection）即可（SHA-512 是VeraCrypt 使用的預設 PRF 算法）。然後「OK」就可以了。
+
+![confirm and OK](https://ooo.0o0.ooo/2016/09/21/57e24d744f832.jpg)
+
+這樣就掛載完成了（當然密碼正確的話）。
+
+![mounted](https://ooo.0o0.ooo/2016/09/21/57e24e704432d.jpg)
+
+現在就有了盤符爲 M 的一個虛擬磁盤。雖然在使用上和眞正的磁盤沒什麼區別，但其中的全部內容都是被加密的。而新文件在寫入其中的同時即被即時加密（be encrypted on the fly）。
+
+當讀取其中的檔案時，比如播放一個影片，VeraCrypt 會把其臨時解密到記憶體（RAM，內存）中。
+
+**注意**：一旦成功掛載加密卷後，便不需再次輸入密碼。
+
+![virtual disk](https://ooo.0o0.ooo/2016/09/21/57e250c6e053e.jpg)
+
+所以當不再需要時要記得將其「解除掛載」（Dismount）。
+
+![dismount](https://ooo.0o0.ooo/2016/09/21/57e25172ab087.jpg)
+
+
+
 [^1]: 
 
     > The development of TrueCrypt was ended in 5/2014 after Microsoft terminated support of Windows XP.
