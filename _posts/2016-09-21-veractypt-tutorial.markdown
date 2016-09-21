@@ -31,7 +31,7 @@ layout: post
 
 第一個選項便是「Create an encrypted file container」（建立加密檔案容器），點擊「Next」進入下一步。
 
-！[Create an encrypted file container](https://ooo.0o0.ooo/2016/09/21/57e217826fb9a.jpg)
+![Create an encrypted file container](https://ooo.0o0.ooo/2016/09/21/57e217826fb9a.jpg)
 
 
 這時候會出現兩個選項，第一個是「標準 VeraCrypt 加密卷」（Standard VeraCrypt volume），第二個是「隱藏 VeraCrypt 加密卷」（Hidden VeraCrypt volume）。
@@ -160,15 +160,13 @@ PRF 算法預設的「自動偵測」（autodetection）即可（SHA-512 是Vera
 
 ----
 
-[^1]: 
+參見：
 
-    > The development of TrueCrypt was ended in 5/2014 after Microsoft terminated support of Windows XP.
-
-    - [http://truecrypt.sourceforge.net/]
-
-[^2]: [Beginner's Tutorial - VeraCrypt Documentation](https://veracrypt.codeplex.com/wikipage?title=Beginner%27s%20Tutorial){:target='_blank'}
+[VeraCrypt 官方文檔（英文）](https://veracrypt.codeplex.com/documentation){:target='_blank'}
 
 ----
 
-參見：
-[VeraCrypt 官方文檔（英文）](https://veracrypt.codeplex.com/documentation){:target='_blank'}
+[^1]: The development of TrueCrypt was ended in 5/2014 after Microsoft terminated support of Windows XP.([http://truecrypt.sourceforge.net/])
+
+[^2]: [Beginner's Tutorial - VeraCrypt Documentation](https://veracrypt.codeplex.com/wikipage?title=Beginner%27s%20Tutorial){:target='_blank'}
+
