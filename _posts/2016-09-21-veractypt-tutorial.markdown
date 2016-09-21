@@ -166,7 +166,7 @@ PRF 算法預設的「自動偵測」（autodetection）即可（SHA-512 是Vera
 
 ----
 
-[^1]: The development of TrueCrypt was ended in 5/2014 after Microsoft terminated support of Windows XP.[http://truecrypt.sourceforge.net/]
+[^1]: The development of TrueCrypt was ended in 5/2014 after Microsoft terminated support of Windows XP.(http://truecrypt.sourceforge.net/){:target='_blank'}
 
 [^2]: [Beginner's Tutorial - VeraCrypt Documentation](https://veracrypt.codeplex.com/wikipage?title=Beginner%27s%20Tutorial){:target='_blank'}
 
