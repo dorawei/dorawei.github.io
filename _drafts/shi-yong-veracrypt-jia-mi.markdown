@@ -17,12 +17,23 @@ layout: post
 
 # 使用
 
-## 建立加密容器（加密卷）[^2]
+## 建立加密容器[^2]
 
-如果把你的整個磁碟（硬盤、硬碟）比作房屋、一個分區比作一個房間的話，加密容器（Encrypted file container，或稱「加密卷」）相當於在一個房間中放置一個具有密碼鎖保護的保險箱。需要密碼才可以存取裏面的東西。
+如果把你的整個磁碟（硬盤、硬碟）比作房屋、一個分區比作一個房間的話，加密容器（Encrypted file container）相當於在一個房間中放置一個具有密碼鎖保護的保險箱。需要密碼才可以存取裏面的東西。
+
+當你運行 VeraCrypt 後，點擊位於左下的「Create Volume」，進入創建嚮導。
+
+![Create Volume](https://ooo.0o0.ooo/2016/09/21/57e216ec12cd1.jpg)
 
 
+第一個選項便是「Create an encrypted file container」（建立加密檔案容器），點擊「Next」進入下一步。
 
+！[Create an encrypted file container](https://ooo.0o0.ooo/2016/09/21/57e217826fb9a.jpg)
+
+
+這時候會出現兩個選項，第一個是「標準 VeraCrypt 加密卷」（Standard VeraCrypt volume），第二個是「隱藏 VeraCrypt 加密卷」（Hidden VeraCrypt volume）。
+
+第一個就相當於只是一個標準的保險箱，密碼正確就可以存取裏面的內容。而二個「隱藏 VeraCrypt 加密卷」就像是在保險箱之中再藏一個小的保險箱，並使用和「表箱」不同的密碼，只有輸入和「裏箱」對應的密碼才可以存取「裏箱」之中的內容。這種加密方式適用於被「強迫」交出密碼或打開的時候，可以在「表箱」放一些看起來是「機密」的文件以掩人耳目，而眞正的「機密」則隱藏在「裏箱」之中。
 
 
 [^1]: 
