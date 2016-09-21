@@ -4,6 +4,9 @@ date: 2016-09-21 12:40:00 +08:00
 tags:
 - VeraCrypt
 - encryption
+- Tools
+comments: true
+excerpt: 免費開源加密工具 VeraCrypt 的使用教學。
 layout: post
 ---
 
@@ -153,6 +156,9 @@ PRF 算法預設的「自動偵測」（autodetection）即可（SHA-512 是Vera
 
 在「Normal Mode」下首先是設定表面的加密卷，如果在「Large files?」處選擇「Yes」的話，VeraCrypt 會警告用戶在外部加密容器使用「FAT」（即不支援存放大於 4 GB 檔案）會有利於在隱藏卷中存於大文件云云，所以如果沒有必要就不要更改些處的設定了。
 
+#Have fun.
+
+----
 
 [^1]: 
 
@@ -161,3 +167,8 @@ PRF 算法預設的「自動偵測」（autodetection）即可（SHA-512 是Vera
     - [http://truecrypt.sourceforge.net/]
 
 [^2]: [Beginner's Tutorial - VeraCrypt Documentation](https://veracrypt.codeplex.com/wikipage?title=Beginner%27s%20Tutorial){:target='_blank'}
+
+----
+
+參見：
+[VeraCrypt 官方文檔（英文）](https://veracrypt.codeplex.com/documentation){:target='_blank'}
