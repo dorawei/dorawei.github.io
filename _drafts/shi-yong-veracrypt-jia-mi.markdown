@@ -17,9 +17,9 @@ layout: post
 
 # 使用
 
-## 建立加密容器[^2]
+## 建立加密容器（加密卷）[^2]
 
-如果把你的整個磁碟（硬盤、硬碟）比作房屋、一個分區比作一個房間的話，加密容器（Encrypted file container）相當於在一個房間中放置一個具有密碼鎖保護的保險箱。需要密碼才可以存取裏面的東西。
+如果把你的整個磁碟（硬盤、硬碟）比作房屋、一個分區比作一個房間的話，加密容器（Encrypted file container，或稱「加密卷」）相當於在一個房間中放置一個具有密碼鎖保護的保險箱。需要密碼才可以存取裏面的東西。
 
 當你運行 VeraCrypt 後，點擊位於左下的「Create Volume」，進入創建嚮導。
 
@@ -40,6 +40,14 @@ layout: post
 這裏我們選擇「標準 VeraCrypt 加密卷」（Standard VeraCrypt volume），「下一步」（Next）。
 
 ![standard volume](https://ooo.0o0.ooo/2016/09/21/57e21a977911b.jpg)
+
+接下來便是選擇存放「加密卷」（Encrypted file container）的位置。
+
+![select file](https://ooo.0o0.ooo/2016/09/21/57e21b539e825.jpg)
+
+就像保存其它文件一樣，選擇一個位置，並起一個名字。（可以沒有或任意的後綴／擴展名）
+
+![specify path and file name](https://ooo.0o0.ooo/2016/09/21/57e21bb15d59b.jpg)
 
 
 [^1]: 
