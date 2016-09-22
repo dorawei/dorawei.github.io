@@ -10,7 +10,7 @@ excerpt: 免費開源加密工具 VeraCrypt 的使用教學。
 layout: post
 ---
 
-[VeraCrypt](https://veracrypt.codeplex.com/){:target='_blank'}是一個免費開源的加密工具，是前知名加密工具 [TrueCrypt](https://en.wikipedia.org/wiki/TrueCrypt){:target='_blank'}的衍生版本。由於 TrueCrypt 以未知原因被中斷維護[^1]，越來越多的人開始尋找[替代品](http://www.howtogeek.com/203708/3-alternatives-to-the-now-defunct-truecrypt-for-your-encryption-needs/){:target='_blank'}，VeraCrypt 便是其中較受歡迎的一個。
+[VeraCrypt](https://veracrypt.codeplex.com/){:target='_blank'} 是一個免費開源的加密工具，是前知名加密工具 [TrueCrypt](https://en.wikipedia.org/wiki/TrueCrypt){:target='_blank'} 的衍生版本。由於 TrueCrypt 以未知原因被中斷維護[^1]，越來越多的人開始尋找[替代品](http://www.howtogeek.com/203708/3-alternatives-to-the-now-defunct-truecrypt-for-your-encryption-needs/){:target='_blank'}，VeraCrypt 便是其中較受歡迎的一個。
 
 # 下載
 
@@ -104,7 +104,7 @@ layout: post
 
 這時會提示輸入密碼。如果有密鑰檔案（keyfile）的話也要同時選上「Use keyfiles」並選擇相應的檔案。
 
-![input password](https://ooo.0o0.ooo/2016/09/21/57e24d4ac9c85.jpg）
+![input password](https://ooo.0o0.ooo/2016/09/21/57e24d4ac9c85.jpg)
 
 PRF 算法預設的「自動偵測」（autodetection）即可（SHA-512 是VeraCrypt 使用的預設 PRF 算法）。然後「OK」就可以了。
 
