@@ -9,6 +9,7 @@ tags:
 comments: true
 excerpt: How FOT-Klee is used on Animes.
 layout: post
+custom-font: fot-klee
 ---
 
 Fontworks的Klee（クレー ）這款字體出來已經很久了，最近又在某舊番上看到了Klee的身影。
