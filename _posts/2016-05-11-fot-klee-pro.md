@@ -1,9 +1,9 @@
 ---
-title: "字體與番：Fontworks Klee（クレー ）"
+title: 字體與番：Fontworks Klee（クレー ）
 date: 2016-05-11 19:21:00 +08:00
 tags:
 - Fontworks
-- "字體"
+- 字體
 - Anime
 - FOT-Klee Pro
 comments: true
