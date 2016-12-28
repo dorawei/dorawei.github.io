@@ -31,10 +31,7 @@ sass:
   sass_dir: _sass
   style: compressed
 disqus_shortname: dorawei
-# twitter: username
-# facebook: username
 github: dorawei
-# instagram: username
 steam: dorawei
 gems:
 - jekyll-mentions
