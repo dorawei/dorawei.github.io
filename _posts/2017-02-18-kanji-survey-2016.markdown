@@ -5,7 +5,10 @@ tags:
 - 漢字
 - 字形
 - 調查
-Key: 
+
+comments: true
+excerpt: 這是一份關於漢字字形偏好調查的結果。
+layout: post
 ---
 
 這是一份關於漢字字形調查的結果。
