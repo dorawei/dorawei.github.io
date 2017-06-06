@@ -1,5 +1,5 @@
 ---
-title: "薪水與工資"
+title: 薪水與工資
 date: 2016-08-30 20:47:00 +08:00
 comments: true
 excerpt: "「薪水」與「工資」的區別。"
