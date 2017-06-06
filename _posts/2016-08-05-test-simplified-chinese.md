@@ -14,4 +14,4 @@ layout: post
 
 可惜免费帐户只可以添加两个字体，不然我可以用「韩，日，台，中」的顺序:P
 
-#Have fun
+#Have fun.

@@ -12,6 +12,8 @@ comments: true
 layout: post
 ---
 
+**2017-06-06更新**：新版 Chrome 可以使用 Stylebot，MacType 已更新正式支援 DirectWrite，還有就是期待新版 Windows 吧！
+
 不久前 Chrome 穩定版更新到了 52，正式去掉了禁用 DirectWrite 的 flag 選項，這使得 MacType 變得對 Chrome 無效。
 
 在退回 51 版的同時，了解到新的 Beta 版 MacType 以及針對 Windows 10 DirectWrite 的補丁。
@@ -56,7 +58,7 @@ layout: post
 	<figcaption>不再fallback到 PMingLiU了，謝天謝地</figcaption>
 </figure>
 
-導出的註冊表[下載](https://dorawei.xyz/assets/files/20160802/trail-seems good-reg.7z){:target="_blank"} 
+導出的註冊表~~下載~~
 
 #希望不要再突然變差
 

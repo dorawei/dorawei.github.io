@@ -1,5 +1,5 @@
 ---
-title: "全新 Windows 版 Rime 輸入法試用心得"
+title: "新版 Windows Rime 輸入法"
 date: 2015-10-11 00:00:00 +08:00
 tags:
 - Rime
@@ -10,7 +10,9 @@ excerpt: New Rime for Windows.
 layout: post
 ---
 
-新版的小狼毫終於釋出了，採用Google Input Tools作爲前端框架。有望解決之前小狼毫在Windows 8和以上版本中的相容性問題。
+**2017-06-06更新**：現在在 Windows 10 上使用的是 [PRIME](https://github.com/osfans/PRIME/releases){:target="_blank"}。
+
+新版的小狼毫終於釋出了，採用 Google Input Tools 作爲前端框架。有望解決之前小狼毫在 Windows 8 和以上版本中的相容性問題。
 
 ![Notice from developer](https://ooo.0o0.ooo/2016/08/16/57b2eec225e63.png)
 
@@ -41,7 +43,7 @@ https://bintray.com/lotem/rime/rime-gits/0
 ![一般狀態欄](https://ooo.0o0.ooo/2016/08/16/57b2eec1e8699.png)
 ![Google拼音式狀態欄](https://ooo.0o0.ooo/2016/08/16/57b2eec1ee4fd.png)
 
-打字時的介面像Mac OS和Linux上的輸入法，採用嵌入式設計，個人很喜歡:D
+打字時的介面像 Mac OS 和 Linux 上的輸入法，採用嵌入式設計，個人很喜歡:D
 
 ![打字時介面](https://ooo.0o0.ooo/2016/08/16/57b2eec243d78.png)
 

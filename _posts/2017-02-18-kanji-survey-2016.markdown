@@ -1,10 +1,10 @@
 ---
-title: 漢字字形偏好小調查
+title: 關於漢字字形和字體的問卷
 date: 2017-02-18 14:32:00 +08:00
 tags:
 - 漢字
 - 字形
-- 調查
+- 問卷
 comments: true
 excerpt: 這是一份關於漢字字形偏好調查的結果。
 layout: post

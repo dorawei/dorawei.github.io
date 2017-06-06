@@ -1,17 +1,19 @@
 ---
-title: "以最廉價的方式快速建站"
+title: "建立網站：用 Github Pages 免費託管"
 date: 2016-05-10 03:08:56 +08:00
 tags:
 - Web
 - Domain
 - Hosting
-excerpt: Quickly set up a new website.
+excerpt: 使用 Github Pages 建立項目或個人網站。
 comments: true
 layout: post
 ---
 
-_Namecheap又在大促，.xyz域名只要0.44刀！_
+~~_Namecheap又在大促，.xyz域名只要0.44刀！_~~（現在沒有了。）
 於是便有了這個新的域名，索性寫一篇文章好了，說不定可以對誰有所幫助。
+
+（更新於2017年6月6日）
 
 **解決方案：Namecheap促銷的首年域名+Github Pages**
 
@@ -69,7 +71,7 @@ OK，等其同步完成就可以去`http://你的用戶名.github.io/`查看了�
 
 但是如果你肯多花幾十美分的話，就可以搞一個心儀的域名了。
 
-# 超便宜的域名
+# ~~超~~便宜的域名
 
 Namecheap經常會搞一些活動，比如最近的Star Wars活動中.xyz域名只要0.44美元，而其它也有好多0.88美元的域名，撿合適的註冊吧。結算可以用Paypal，還是很方便的。（你問一年後怎麼辦，有人推薦轉入Namesilo :P）
 
@@ -99,4 +101,4 @@ OK，可以去Dashboard設定DNS了。
 
 ![webpage-done.png](https://ooo.0o0.ooo/2016/05/09/57309b4c1c6e9.png)
 
-Have fun~
+#Have fun.
