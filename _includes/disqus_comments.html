@@ -4,6 +4,7 @@
         (function() {
             var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
             dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            /* Remind of GFW */ dsq.addEventListener("error", function() { document.getElementById("disqus_thread").innerHTML = "<p class=\"disqus-error\">Error loading Disqus comments, please check your internet connection or try to reload. 加载 Disqus 评论出错，请确保您可以连线至国际网路或尝试重新载入。</p>"; });
             (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
         })();
         (function () {

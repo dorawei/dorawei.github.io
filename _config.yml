@@ -31,8 +31,10 @@ sass:
   sass_dir: _sass
   style: compressed
 disqus_shortname: dorawei
+eamil: me@dorawei.xyz
 github: dorawei
 steam: dorawei
+
 gems:
 - jekyll-mentions
 - jekyll-feed
