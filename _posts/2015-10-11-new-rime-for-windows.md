@@ -1,5 +1,5 @@
 ---
-title: "新版 Windows Rime 輸入法"
+title: 新版 Windows Rime 輸入法
 date: 2015-10-11 00:00:00 +08:00
 tags:
 - Rime
