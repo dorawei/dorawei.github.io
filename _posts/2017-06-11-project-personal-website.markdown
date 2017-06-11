@@ -1,13 +1,13 @@
 ---
-layout: post
-title:  "Personal Website"
-date:   2017-06-11
-excerpt: "About this site."
-project: true
-tag:
+title: Personal Website
+date: 2017-06-11 00:00:00 +08:00
+tags:
 - Web
 - Jekyll
 - Blog
+layout: post
+excerpt: About this site.
+project: true
 comments: true
 ---
 
