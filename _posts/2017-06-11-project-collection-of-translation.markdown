@@ -1,12 +1,12 @@
 ---
-layout: post
-title:  "興趣翻譯作品"
-date:   2017-06-11
-excerpt: "Collection of fan translation works."
-project: true
-tag:
+title: 興趣翻譯作品
+date: 2017-06-11 00:00:00 +08:00
+tags:
 - 中文化
 - 翻譯
+layout: post
+excerpt: Collection of fan translation works.
+project: true
 comments: true
 ---
 
