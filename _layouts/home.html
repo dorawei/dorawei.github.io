@@ -9,6 +9,36 @@ layout: compress
 <!--[if gt IE 8]><!--> <html class="no-js"><!--<![endif]-->
 <head>
     {% include head.html %}
+<!-- temp updating msg-->   
+    <style>
+#overlay {
+    position: fixed;
+    display: block;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(38,69,61,0.9);
+    z-index: 2000;
+    text-align: center;
+}
+
+#textovl{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 12pt;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+             0px 8px 13px rgba(0,0,0,0.1),
+             0px 18px 23px rgba(0,0,0,0.1);
+}
+    </style>
+<!-- end of temp updating msg-->    
 </head>
 <body>
     {% include nav.html %}
@@ -47,5 +77,9 @@ layout: compress
         </div>
     </header>
     {% include scripts.html %}
+    <!-- temp updating msg-->  
+    <div id="overlay" class="tk-ten-mincho">
+      <div id="textovl">此　網　站　更　新　中<br>This site is being updated<br>このサイトは更新中です</div>
+    </div>
 </body>
 </html>
