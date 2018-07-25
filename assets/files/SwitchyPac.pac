@@ -1457,5 +1457,5 @@ function regExpMatch(url, pattern) {    try { return new RegExp(pattern).test(ur
 	if(shExpMatch(host, 'localhost')) return 'DIRECT';
 	if(shExpMatch(host, '127.0.0.1')) return 'DIRECT';
 	if(shExpMatch(host, '<local>')) return 'DIRECT';
-	return 'PROXY 10.213.0.66:8080';
+	return 'PROXY 10.23.29.130:8080';
 }
