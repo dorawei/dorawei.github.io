@@ -32,10 +32,10 @@ $warning			 : #dd8338;
 $danger				 : #C64537;
 $info		         : #308cbc;
 
-//fonts
-$font1               : Fira Sans, source-han-sans-japanese, source-han-sans-simplified-c, Hei, sans-serif;
+//fonts//deleted "Fira Sans, "
+$font1               : source-han-sans-cjk-ko, sans-serif;
 $font2               : Inconsolata;
-$alt-font            : source-han-serif-korean, serif;
+$alt-font            : ten-mincho, serif;
 $doc-font-size       : 16;
 $doc-line-height     : 26;
 
