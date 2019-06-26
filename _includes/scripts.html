@@ -21,9 +21,15 @@
         {% include disqus_comments.html %}
     {% endif %}
 	<!-- TypeSquare-->
-	<script type="text/javascript" src="//typesquare.com/accessor/zh_tw/script/typesquare.js?UWxKvWq5q8o%3D" charset="utf-8"></script>
+	<script type="text/javascript" src="//typesquare.com/3/tsst/script/zh_tw/typesquare.js?UWxKvWq5q8o%3D&fadein=10" charset="utf-8"></script>
 <!--TypeKit-->
-<script src="https://use.typekit.net/rgm6ozc.js"></script>
-<script>try{Typekit.load({ async: true });}catch(e){}</script>
-<script src="https://use.typekit.net/deb3rix.js"></script>
-<script>try{Typekit.load({ async: true });}catch(e){}</script>
+<script>
+  (function(d) {
+    var config = {
+      kitId: 'deb3rix',
+      scriptTimeout: 3000,
+      async: true
+    },
+    h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+  })(document);
+</script>
