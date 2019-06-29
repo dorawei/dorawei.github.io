@@ -2,9 +2,9 @@
 title: JavaScript切換語言重定向
 date: 2016-05-10 18:38:38 +08:00
 tags:
-- "網站"
+- 網站
 - JavaScript
-- "中文轉換"
+- 中文轉換
 comments: true
 excerpt: Just a simply JavaScript example.
 layout: post

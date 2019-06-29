@@ -1,11 +1,11 @@
 ---
-title: "青空文庫作品導入 InDesign"
+title: 青空文庫作品導入 InDesign
 date: 2016-08-31 11:20:00 +08:00
 tags:
-- "青空文庫"
+- 青空文庫
 - InDesign
 comments: true
-excerpt: "將「青空文庫」中的作品導入 InDesign 並保留假名標音（ふりがな）"
+excerpt: 將「青空文庫」中的作品導入 InDesign 並保留假名標音（ふりがな）
 layout: post
 ---
 

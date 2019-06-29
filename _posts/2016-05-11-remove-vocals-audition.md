@@ -1,11 +1,11 @@
 ---
-title: "用 Adobe Auditon 消音"
+title: 用 Adobe Auditon 消音
 date: 2016-05-11 02:05:55 +08:00
 categories:
 - Tools
 tags:
 - Audition
-- "聲音處理"
+- 聲音處理
 - Adobe
 comments: true
 excerpt: Easy ways to remove vocal sounds.

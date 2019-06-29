@@ -1,12 +1,12 @@
 ---
 title: Speccy Portable
 date: 2016-08-05 18:41:00 +08:00
-excerpt: Download the portable edition of Speccy to look inside your PC and find all
-  its hardware specs.
-commnets: true
 tags:
 - Tools
 - Windows
+excerpt: Download the portable edition of Speccy to look inside your PC and find all
+  its hardware specs.
+commnets: true
 layout: post
 ---
 
