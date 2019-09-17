@@ -1,6 +1,6 @@
 ---
 title: Dorawei
-timezone: Asia/Taipei
+timezone: Asia/Hong_Kong
 collections:
   posts:
     title: Posts
@@ -8,8 +8,8 @@ collections:
   uploads:
     title: Uploads
     output: true
-bio: "#language #type #design #acg "
-description: Share something interesting.
+bio: "#language #type #design #acg \n#旅行 #讀書 #發呆 "
+description: Hello World,ハロー・ワールド
 reading_time: false
 words_per_minute: 200
 logo: assets/img/logo.png
