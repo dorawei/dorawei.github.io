@@ -10,6 +10,8 @@ excerpt: New Rime for Windows.
 layout: post
 ---
 
+**2019-12-21更新**：RIME 小狼毫已支援 Windows 10 可直接去[官網](https://rime.im/){:target="_blank"}下載使用。
+
 **2017-06-06更新**：現在在 Windows 10 上使用的是 [PRIME](https://github.com/osfans/PRIME/releases){:target="_blank"}。
 
 新版的小狼毫終於釋出了，採用 Google Input Tools 作爲前端框架。有望解決之前小狼毫在 Windows 8 和以上版本中的相容性問題。
