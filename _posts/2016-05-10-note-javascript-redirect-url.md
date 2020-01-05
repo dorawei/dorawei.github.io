@@ -1,17 +1,16 @@
 ---
-title: JavaScript切換語言重定向
-date: 2016-05-10 18:38:38 +08:00
+title: 筆記：JavaScript 重定向 URL
+date: 2016-05-10 18:38:00 +08:00
 tags:
-- 網站
 - JavaScript
-- 中文轉換
 comments: true
-excerpt: Just a simply JavaScript example.
+excerpt: Just a simple JavaScript example.
 layout: post
 ---
 
-雖然有直接進行簡繁轉換的JavaScript但是有時候會不準確啊，再加上詞彙的轉換什麼的……還是分開吧。
-於是就用JavaScript做了一個切換語言的選項。
+記錄使用 JavaScript 去簡單實現重新定向 URL。
+
+這裏以不同的URL來切換語言爲例：
 
 像這樣把某個`<a>`的`onclick`加上`switchLanguage()`的函數。
 `<a id="switch" href="#" onclick="switchLanguage('zh-Hans')">`
