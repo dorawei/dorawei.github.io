@@ -49,3 +49,5 @@ Google Font Early Access 中提供 cwTeX 黑體、仿宋、明體、楷體及圓
 地址：<https://typekit.com/>{:target="_blank"}
 
 #Enjoy.
+
+**更新**：[中文 Web Font in 2019 — 進化的 Google Fonts 和全新的 Adobe Fonts](https://dorawei.xyz/chinese-webfont-2019/){:target="_blank"}
