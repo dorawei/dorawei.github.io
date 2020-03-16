@@ -16,6 +16,11 @@ comments: ture
 
 早就聽聞日星鑄字行的大名，去年5月去臺北時終於如願去探訪並買了鉛字。正巧也趕上日星50週年展，雖然已經過去快一年了還是趁着記着些什麼的時候寫下來吧（汗
 
+<figure>
+	<img src="https://tdlxdg.bn.files.1drv.com/y4mbzpnIfWD3lfWB_7HJpjTdJfAD6XpornLnFJmk-otsThTdOBrc6uCaw-7hVTiNrqhNsHpzTdC1ktEF-b2i-NgJp0OnOZIFFU3-YM6k3gk0z664isQySDNOUjFGLOh1zpARjPi2M5YqFV2yAM_P2O_bGK3GggQgnvtKp6g8Ec37NhWJNBOodFqGb60MHBZPLW92PG-lPv5ynZxqu8KL-MV4A?width=577&height=883&cropmode=none"  alt="『想見你』劇中32咖啡館的位置眞的有一家咖啡館">
+	<figcaption>『想見你』劇中32咖啡館的位置眞的有一家咖啡館</figcaption>
+</figure>
+
 # 初訪日星
 
 記得那天上午還在下些小雨，下午坐公車去日星，到站時貌似已經停下來了，順便一提那個站的名字叫圓環（南京），上一站叫圓環（重慶），當時貌似還爲區分站名糾結了一小下。
@@ -56,9 +61,9 @@ comments: ture
 
 既然到了日星，當然是買鉛字來玩啦！鉛字的價格也OK，如果是小字號的話可以不用花很多錢就買到很多字了XD
 
-如果自己想挑戰「檢字」的話，可以拿「檢字盒」去親自嘗試找到自己想要的字。於是我拿起檢字盒興沖沖跑去檢字，但不幸——雖然有導覽標註哪些字在哪些區域，不過還是因爲太難找中途放棄……只好拜託工作人員去找剩下的字。只見她迅速麻利的找齊了所有字……嗯大概這就是孰能生巧吧。
+如果自己想挑戰「檢字」的話，可以拿「檢字盒」去親自嘗試找到自己想要的字。於是我拿起檢字盒興沖沖跑去檢字，但不幸——雖然有導覽標註哪些字在哪些區域，不過還是因爲太難找中途放棄……只好拜託工作人員去找剩下的字。只見她迅速麻利的找齊了所有字……嗯大概這就是熟能生巧吧。
 
-想要做小印章的話也可以買印章盒，可以把幾個鉛字固定起來變成印章那樣。不過我只買了些鉛字和印泥就出來了。（不僅買了令和還有買平成w）
+想要做小印章的話也可以買印章盒，可以把幾個鉛字固定起來變成印章那樣。不過我只買了些鉛字和印泥就出來了。（不僅買了令和還買了平成w）
 
 
 ![鉛字架](https://yqezow.bn.files.1drv.com/y4mawuvO1bdQ6GK7jGyZ5jXiEL0DLEyyI_ln_4ATtGjeEIAtYEoa7M75TjrhLB0-nOLfZ00hHc92NsoMvwG7lhFqpFu0BO377iDvzEaD3RvhbNExBugAFLtwUEeK6jMC5AizsZ5Lvi9risE12-1FsVWxrql4nKn6z1KtCS-pKE9VcOitFC1enjlYO7CxctdgH_c_G_YLK1As8SPQE6yUbK3jg?width=1324&height=883&cropmode=none)
