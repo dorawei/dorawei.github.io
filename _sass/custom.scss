@@ -1,7 +1,7 @@
-/*fallback fonts*/
+/*fallback & web fonts*/
 
-@import 'https://cjkwebfonts.now.sh/shuei-maru-fallback/fallback-test.css', 'https://cjkwebfonts.now.sh/Fallback-TenMincho-20200318/css.css', 'https://cjkwebfonts.now.sh/GenSekiGoL20200318/css.css';
-
+@import 'https://cjkwebfonts.now.sh/shuei-maru-fallback/fallback-test.css', 'https://cjkwebfonts.now.sh/Fallback-TenMincho-20200318/css.css';
+@import 'https://cjkwebfonts.now.sh/GlowSansTC-Condensed-Book-0323/css.css', 'https://cjkwebfonts.now.sh/GlowSansTC-Condensed-Ligh-0323/css.css';
 /*font goes below*/
 
 blockquote {
@@ -13,7 +13,7 @@ blockquote {
 }*/
 
 body {
-	font-family: GenSekiGoL, sans-serif;
+	font-family: GlowSansTC-Condensed-Book, sans-serif;
 }
 
 .post-list li a, h1, h2, h3, h4, h5, h6 {
@@ -26,6 +26,12 @@ body {
   font-feature-settings: "kern";
   font-kerning: normal;*/
 }
+
+// post list
+.post-list p {
+    font-family: GlowSansTC-Condensed-Light, sans-serif;
+}
+
 
 p a {
   color: $color_21;
