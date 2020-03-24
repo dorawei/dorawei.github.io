@@ -52,7 +52,7 @@ npm install font-spider -g
 }
 ```
 
-> 特記： `@font-face` の中の `src` で記述の .ttf ファイル存在している必要があります、残りのフォーマットは font-spider が自動自動的に生成することができます。
+> 特記： `@font-face` の中の `src` で記述の .ttf ファイル存在している必要があります、残りのフォーマットは font-spider が自動的に生成することができます。
 
 ### 二、Webフォントを圧縮
 
