@@ -41,7 +41,7 @@ raziko 大概是第三方開發的 App，在 radiko 的官方 App 支援之前�
 
 # 在電腦上用 rajiko
 
-直接在商店搜索 rajiko 安裝到瀏覽器就可以用了。點開圖示可以選擇收聽的地區，預設爲東京。在不同電台頁面也會出現不同下載或錄製的選項，方便保存到本地日後回聽。
+直接在商店搜索 rajiko 安裝到瀏覽器即可前往 radiko.jp 享受無限制的電台節目了。點開圖示可以選擇收聽的地區，預設爲東京。在不同電台頁面也會出現不同下載或錄製的選項，方便保存到本地日後回聽。
 
 ![電腦上使用rajiko](https://wtlxdg.bn.files.1drv.com/y4mVEjggrxWzsjxcdaIsbx975faofX6o_QG4yD9OPPQ2nKPh_R_JkT1T6uFaxgIkVZArUmO-jOUw8iaeiaDKMK0oKyM3IFTE2NcE65XUkBr2HxeQbybTgXSYBUfkmWM45mnnypdLkv0JKDPlg-waTPYaxUAMaKWBrQlU8MClcYflxrMOUuxjSOa62UsB0r87mGyNjtVwwzsih1DjriwbYzOyQ?width=1920&height=983&cropmode=none)
 
