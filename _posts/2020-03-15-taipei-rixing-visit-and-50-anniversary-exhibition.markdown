@@ -17,8 +17,8 @@ comments: ture
 早就聽聞日星鑄字行的大名，去年5月去臺北時終於如願去探訪並買了鉛字。正巧也趕上日星50週年展，雖然已經過去快一年了還是趁着記着些什麼的時候寫下來吧（汗
 
 <figure>
-	<img src="https://tdlxdg.bn.files.1drv.com/y4mbzpnIfWD3lfWB_7HJpjTdJfAD6XpornLnFJmk-otsThTdOBrc6uCaw-7hVTiNrqhNsHpzTdC1ktEF-b2i-NgJp0OnOZIFFU3-YM6k3gk0z664isQySDNOUjFGLOh1zpARjPi2M5YqFV2yAM_P2O_bGK3GggQgnvtKp6g8Ec37NhWJNBOodFqGb60MHBZPLW92PG-lPv5ynZxqu8KL-MV4A?width=577&height=883&cropmode=none"  alt="『想見你』劇中32咖啡館的位置眞的有一家咖啡館">
-	<figcaption>『想見你』劇中32咖啡館的位置眞的有一家咖啡館</figcaption>
+	<img src="https://tdlxdg.bn.files.1drv.com/y4mbzpnIfWD3lfWB_7HJpjTdJfAD6XpornLnFJmk-otsThTdOBrc6uCaw-7hVTiNrqhNsHpzTdC1ktEF-b2i-NgJp0OnOZIFFU3-YM6k3gk0z664isQySDNOUjFGLOh1zpARjPi2M5YqFV2yAM_P2O_bGK3GggQgnvtKp6g8Ec37NhWJNBOodFqGb60MHBZPLW92PG-lPv5ynZxqu8KL-MV4A?width=577&height=883&cropmode=none"  alt="『想見你』劇中32咖啡館的位置真的有一家咖啡館">
+	<figcaption>『想見你』劇中32咖啡館的位置真的有一家咖啡館</figcaption>
 </figure>
 
 # 初訪日星
@@ -126,7 +126,7 @@ comments: ture
 	<figcaption>鑄欄機</figcaption>
 </figure>
 
-就在我們認真的觀察鉛字的時候staff告訴我們旁邊有點心和茶飲——！可以邊吃邊喝邊逛的展覽貌似還是生平第一次，這種設置眞是希望其他主辦方也多多學習啊（誤
+就在我們認真的觀察鉛字的時候staff告訴我們旁邊有點心和茶飲——！可以邊吃邊喝邊逛的展覽貌似還是生平第一次，這種設置真是希望其他主辦方也多多學習啊（誤
 
 ![點心和茶飲](https://zqc0ga.bn.files.1drv.com/y4mJxmQYlJYoLE1ma0-AyZuLGheTL1tEB1ZE0FLyBWXavlitf9n0EGiSZ8tt0PTmJQv--XVqsz3KohYUJqykQKsxo3fRiKG7ZWyIGhO4HXSA2GfrhyZzMaVaMo40Ng444zxeWI4LVbCBvPX1ZOZtS3sCS2JR2S12RmY1tx62tIR_y82Gymfl_obnNVULl2AwnUs72lDijfZTNOoqGNA9Lu6lA?width=1324&height=883&cropmode=none)
 
