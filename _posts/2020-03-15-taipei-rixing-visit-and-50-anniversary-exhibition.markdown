@@ -26,7 +26,7 @@ comments: ture
 記得那天上午還在下些小雨，下午坐公車去日星，到站時貌似已經停下來了，順便一提那個站的名字叫圓環（南京），上一站叫圓環（重慶），當時貌似還爲區分站名糾結了一小下。
 
 <figure>
-	<img src="https://img.dorawei.xyz/20200315-RiXing/1-Bus_stop-Taipei_Circle_Nanjing.JPG"  alt="圓環（南京）">
+	<img src="https://img.dorawei.xyz/20200315-RiXing/1-Bus_stop-Taipei_Circle_Nanjing.jpg"  alt="圓環（南京）">
 	<figcaption>圓環（南京）站</figcaption>
 </figure>
 
@@ -55,7 +55,7 @@ comments: ture
 進到店裏映入眼簾的便是壯觀的鉛字架。桌子上除了價格說明、樣張、名片外還擺放了「令和」的鉛字，當時正值日本發表新年號，看到這個操作不禁一笑。貌似去買鉛字的日本人也很多的樣子，網上搜一下也會發現很多日文寫的介紹日星的文章，也正好遇到有人在用日文給看起來像觀光客的人講解。
 
 <figure>
-	<img src="https://img.dorawei.xyz/20200315-RiXing/6-Rixing-Reiwa.JPG"  alt="拿了一張名片和桌上的「令和」鉛字合影，可惜後來名片丟了">
+	<img src="https://img.dorawei.xyz/20200315-RiXing/6-Rixing-Reiwa.jpg"  alt="拿了一張名片和桌上的「令和」鉛字合影，可惜後來名片丟了">
 	<figcaption>拿了一張名片和桌上的「令和」鉛字合影，可惜後來名片丟了</figcaption>
 </figure>
 
@@ -66,7 +66,7 @@ comments: ture
 想要做小印章的話也可以買印章盒，可以把幾個鉛字固定起來變成印章那樣。不過我只買了些鉛字和印泥就出來了。（不僅買了令和還買了平成w）
 
 
-![鉛字架](https://img.dorawei.xyz/20200315-RiXing/7-Kai-other.JPG)
+![鉛字架](https://img.dorawei.xyz/20200315-RiXing/7-Kai-other.jpg)
 
 走出日星會發現在巷子裏還有一個寫着「[一間印刷行](https://www.facebook.com/pg/aletterpress.tw/about/){:target="_blank"}」招牌的店，這家招牌很顯眼（笑）。好奇走進去原來他們是提供印刷相關體驗的店，可以用在日星買來的鉛字，體驗他們的小型印刷機，去真正的排版和印刷，印些名片卡片之類的。
 
