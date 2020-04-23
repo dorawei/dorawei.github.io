@@ -30,7 +30,7 @@ Google 會根據你當前所在地區來貼心的調整字體顯示（回退）�
 
 比如針對貼心的 Google 就在使用時把發現所有出現新細明體的地方全都選出來，再換上 [Glow Sans](https://github.com/welai/glow-sans){:target="_blank"} 之後終於清爽了。
 
-[這是](https://img.dorawei.xyz/20200423-no-more-PMingLiU-Chrome/stylebot-google-bak.txt){:target="_blank"}一份截至今天給 Google 添加的替換字體 CSS 的備份，但因爲 Google 很多地方都用一些類似隨機生成的 ID 等，可能之後會失效也說不定。
+[這是](https://asset.dorawei.xyz/20200423-no-more-PMingLiU-Chrome/stylebot-google-bak.txt){:target="_blank"}一份截至今天給 Google 添加的替換字體 CSS 的備份，但因爲 Google 很多地方都用一些類似隨機生成的 ID 等，可能之後會失效也說不定。
 
 # 最後
 NSimSun 都比 PMingLiU 好看∎
