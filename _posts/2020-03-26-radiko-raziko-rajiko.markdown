@@ -45,4 +45,16 @@ raziko 大概是第三方開發的 App，在 radiko 的官方 App 支援之前�
 
 ![電腦上使用rajiko](https://img.dorawei.xyz/20200326-Radiko/radiko-4.png)
 
+# raziko 不能用
+
+（2021年3月5日更新）
+
+貌似在2021年2月 raziko 的開發者更新了 App，導致舊版本會出現被強制要求更新，但因爲這款 App 早就被 Google Play 下架，於是沒有在 Play 商店安裝過的人是更新不到的。
+
+如果不幸 raziko 不能正常使用了，可以用類似電腦版的方法，找一個可以安裝擴充的瀏覽器（比如[Kiwi](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser){:target="_blank"}），安裝上面提到的 rajiko 直接使用電腦版打開 radiko.jp 網站，就可以用瀏覽器收聽了。
+
+![Kiwi Browser上使用擴充收聽](https://img.dorawei.xyz/20200326-Radiko/kiwi-tfm.png)
+
+Tips：可以同時安裝 Custom UserAgent String 將 radiko.jp 網站設定爲電腦版瀏覽器，便可省去手動勾選「電腦版網站」的麻煩了。
+
 以上∎ 
