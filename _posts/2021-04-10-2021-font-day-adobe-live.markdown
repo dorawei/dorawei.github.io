@@ -3,6 +3,8 @@ title: Adobe Fonts 字體日直播特輯
 date: 2021-04-10 20:11:00 +08:00
 tags:
 - 字體
+- Fontworks
+- Adobe Fonts
 comments: true
 ---
 
@@ -207,7 +209,7 @@ Trajan Color 的顏色選擇則在 OpenType 特性面板中，同時也可以單
 
 比如，DNP家的活字館正在舉行開館紀念展，並且參觀者說出字體日的暗號就可以獲得秀英體的週邊禮物。
 
-![DNP Event](https://img.dorawei.xyz/20210410-FontDay/content2_6_DNP.jpg "DNP Event")
+![DNP Event](https://img.dorawei.xyz/20210410-FontDay/content2_6_dnp.jpg "DNP Event")
 
 ![DNP Event](https://img.dorawei.xyz/20210410-FontDay/content2_6.png "DNP Event")
 
