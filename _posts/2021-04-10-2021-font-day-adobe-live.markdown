@@ -219,7 +219,7 @@ Trajan Color 的顏色選擇則在 OpenType 特性面板中，同時也可以單
 
 # 最後
 
-作爲字體日特輯，2個小時的直播內容還是很充實的，嘉賓的講解有趣也易懂。這篇文章只是選擇性地記錄了一些概要，如果可以聽懂日文還是推薦去觀看完整直播。（[YouTube](https://www.youtube.com/watch?v=QkkpCAsAFQA){:target="_blank"} | [Twitter](https://twitter.com/i/broadcasts/1yoKMAVlzXDKQ){:target="_blank"}）
+作爲字體日特輯，2個小時的直播內容還是很充實的，嘉賓的講解有趣也易懂。這篇文章只是選擇性地記錄了一些概要，如果可以聽懂日文還是推薦去觀看完整直播。（[YouTube](https://www.youtube.com/watch?v=QkkpCAsAFQA){:target="_blank"}/[Twitter](https://twitter.com/i/broadcasts/1yoKMAVlzXDKQ){:target="_blank"}）
 
 
 Adobe Fonts 中的日文字體目錄：[PDF](https://download.macromedia.com/pub/learn/jp/AdobeFonts_Japanlist202104.pdf){:target="_blank"}
