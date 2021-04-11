@@ -107,7 +107,7 @@ Trajan Color 的顏色選擇則在 OpenType 特性面板中，同時也可以單
 
 ![OpenType 異體字](https://img.dorawei.xyz/20210410-FontDay/content1_part2_opentype_2.png "OpenType 異體字")
 
-部分西文字體則提供了不同的替換字、花體字等特效。在 OpenType 面板中可以選擇打開這些功能查看效果。  
+部分西文字體則提供了不同的替換字、花體字等特效。在 OpenType 面板中可以選擇打開這些功能查看效果。
 
 ![OpenType 連字](https://img.dorawei.xyz/20210410-FontDay/content1_part2_opentype_3.png "OpenType 連字")
 
@@ -163,9 +163,13 @@ Trajan Color 的顏色選擇則在 OpenType 特性面板中，同時也可以單
 
 這之後服部也介紹了最近很火的可變字體。（趁機宣傳了一波自家剛發佈的可變版思源黑體）
 
-![可變字體](https://img.dorawei.xyz/20210410-FontDay/content1_part2_opentype_17.png "可變字體")
+不同於傳統字體的預設字重，可變字體可以根據預設的細體和粗體，自動生成中間字重。
+
+![可變字體1](https://img.dorawei.xyz/20210410-FontDay/vfdemo1.gif "可變字體")
 
 可變字體的實現讓設計師不再束縛於原有的字重和形態，可以根據自己雙眼的直覺去任意調整，更加擴展了設計的可能性。
+
+![可變字體2](https://img.dorawei.xyz/20210410-FontDay/vfdemo2.gif "可變字體")
 
 服部展示完可變字體後 Adobe 的另一位高級字體開發 Zachary Scheuren 給大家介紹了可變版思源的更多細節。
 
@@ -215,13 +219,9 @@ Trajan Color 的顏色選擇則在 OpenType 特性面板中，同時也可以單
 
 # 最後
 
-作爲字體日特輯，2個小時的直播內容還是很充實的，嘉賓的講解也很有趣且易懂。這篇文章也只是選擇性地記錄了一些要點，如果可以聽懂日文還是推薦去觀看完整直播。
+作爲字體日特輯，2個小時的直播內容還是很充實的，嘉賓的講解有趣也易懂。這篇文章只是選擇性地記錄了一些概要，如果可以聽懂日文還是推薦去觀看完整直播。（[YouTube](https://www.youtube.com/watch?v=QkkpCAsAFQA){:target="_blank"} | [Twitter](https://twitter.com/i/broadcasts/1yoKMAVlzXDKQ){:target="_blank"}）
 
-https://www.youtube.com/watch?v=QsAEkRsSVis
 
-https://twitter.com/i/broadcasts/1yoKMAVlzXDKQ
+Adobe Fonts 中的日文字體目錄：[PDF](https://download.macromedia.com/pub/learn/jp/AdobeFonts_Japanlist202104.pdf){:target="_blank"}
 
-Adobe Fonts 中的日文字體目錄：
-https://download.macromedia.com/pub/learn/jp/AdobeFonts_Japanlist202104.pdf
-
-思源黑體下載：https://github.com/adobe-fonts/source-han-sans/releases
+思源黑體[下載](https://github.com/adobe-fonts/source-han-sans/releases){:target="_blank"}
