@@ -4,15 +4,19 @@ date: 2021-04-12 00:32:00 +08:00
 tags:
 - 字體
 - 字形
+- Fontworks
+- FOT-Klee Pro
+- Google Fonts
+- Web Font
 comments: true
 excerpt: Klee One TC——更符合繁體中文習慣的人氣日文字體 Klee 修改版
 ---
 
-前段時間 Fontworks 開源了幾款字體，其中就包括人氣字體 Klee（クレー）。
+前段時間 Fontworks 開源了幾款日文字體並開始在 Google Fonts 上提供 Web Font，其中就包括人氣字體 Klee（クレー）。
 
 Klee 一早就[出現在衆多日本動畫的片頭片尾](https://dorawei.xyz/fot-klee-pro/){:target="_blank"}，也是 MacOS X El Capitan 新收錄的字體之一。
 
-好像鉛筆寫出來的楷體一般的風格，讓 Klee 這款字體優雅又獨特。Klee One 版本爲大家又帶來了一款新的開源字體，最重要的是，任何人都可以自行修改。
+好像鉛筆寫出來的楷體一般的風格，讓 Klee 這款字體優雅又獨特。Klee One 版本除了可以讓大家免費使用 Fontworks Klee 這款字體外，最重要的是，還允許任何人對其進行修改。
 
 釋出不久便有人開始了簡體中文補全計劃——[LXGW WenKai / 霞鶩文楷](https://github.com/lxgw/LxgwWenKai){:target="_blank"}，其中也包括了常用繁體字，但同時也將字形修改爲了簡體字形。
 
