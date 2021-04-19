@@ -51,10 +51,22 @@ raziko 大概是第三方開發的 App，在 radiko 的官方 App 支援之前�
 
 貌似在2021年2月 raziko 的開發者更新了 App，導致舊版本會出現被強制要求更新，但因爲這款 App 早就被 Google Play 下架，於是沒有在 Play 商店安裝過的人是更新不到的。
 
+打開 App 便會提醒 「バージョン 1.1.356以降に更新してください」然後直接跳轉到 Play 商店。
+
+## 解決方法1
+
 如果不幸 raziko 不能正常使用了，可以用類似電腦版的方法，找一個可以安裝擴充的瀏覽器（比如[Kiwi](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser){:target="_blank"}），安裝上面提到的 rajiko 直接使用電腦版打開 radiko.jp 網站，就可以用瀏覽器收聽了。
 
 ![Kiwi Browser上使用擴充收聽](https://img.dorawei.xyz/20200326-Radiko/kiwi-tfm.png)
 
 Tips：可以同時安裝 Custom UserAgent String 將 radiko.jp 網站設定爲電腦版瀏覽器，便可省去手動勾選「電腦版網站」的麻煩了。
+
+## 解決方法2
+
+（2021年4月19日更新）
+
+另一個辦法是清除 App 的全部資料再屏蔽 www.googletagmanager.com 這個網站。大概 raziko 在運行後會透過 Google Tag Manager 獲取有無更新的訊息，所以想辦法阻止其連線到 www.googletagmanager.com 就不會有強制更新。
+
+這樣有一個小問題，App 會提示沒有網絡連線，這時按 OK 會自動退出，但返回或按一下其他地方就可以關閉提示正常使用。
 
 以上∎ 
