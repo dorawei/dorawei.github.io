@@ -8,7 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-bio: "#language #type #design #acg \n#旅行 #讀書 #發呆 "
+bio: "#language #type #design #acg\n#旅行 #讀書 #發呆 "
 description: Hello World
 reading_time: false
 words_per_minute: 200
@@ -39,6 +39,7 @@ gems:
 - jekyll-feed
 - jekyll-sitemap
 - jekyll-gist
+- kramdown-parser-gfm
 jekyll-mentions:
   base_url: https://github.com
 exclude:
