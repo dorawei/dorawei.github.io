@@ -8,6 +8,12 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: _posts
+    type: posts
+  values:
+    layout: post
 bio: "#language #type #design #acg\n#旅行 #讀書 #發呆 "
 description: Hello World
 reading_time: false
@@ -34,13 +40,6 @@ disqus_shortname: dorawei
 email: me@dorawei.xyz
 github: dorawei
 steam: dorawei
-defaults:
-  -
-    scope:
-      path: "_posts" # an empty string here means all files in the project
-      type: "posts" # previously `post` in Jekyll 2.2.
-    values:
-      layout: "post"
 gems:
 - jekyll-mentions
 - jekyll-feed
