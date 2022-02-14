@@ -4,10 +4,20 @@
 @import 'https://webfont.vercel.app/shuei-maru-fallback/fallback-test.css';
 @import 'https://webfont.vercel.app/GlowSansTC-Normal-Regular-0323/css.css', 'https://webfont.vercel.app/GlowSansTC-Normal-Regular-0323/supp.css';
 @import url('https://webfonts.vercel.app/KleeOneTCJPSC210414/css.css');
+
+/* [Yanone Kaffeesatz] */
+@font-face {
+  font-family: 'Yanone Kaffeesatz';
+  font-style: normal;
+  font-weight: 420;
+  font-display: swap;
+  src: url(/assets/fonts/YanoneKaffeesatz-420.woff2) format('woff2');
+}
+
 /*font goes below*/
 
 blockquote {
-	font-family:'Klee One', serif;
+	font-family:'Yanone Kaffeesatz', 'Klee One', serif;
 }
 	
 
