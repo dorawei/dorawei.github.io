@@ -1,23 +1,22 @@
 /*fallback & web fonts*/
 
-@import 'https://webfont.now.sh/shuei-maru-fallback/fallback-test.css', 'https://webfont.now.sh/Fallback-TenMincho-20200318/css.css';
-@import 'https://webfont.now.sh/GlowSansTC-Normal-Regular-0323/css.css', 'https://webfont.now.sh/GlowSansTC-Normal-Regular-0323/supp.css';
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+@import 'https://webfont.vercel.app/shuei-maru-fallback/fallback-test.css';
+@import 'https://webfont.vercel.app/GlowSansTC-Normal-Regular-0323/css.css', 'https://webfont.vercel.app/GlowSansTC-Normal-Regular-0323/supp.css';
+@import url('https://webfonts.vercel.app/KleeOneTCJPSC210414/css.css');
 /*font goes below*/
 
 blockquote {
-	font-family:ten-mincho, "Ten Mincho Fallback", serif;
+	font-family:'Klee One', serif;
 }
 	
-/*body {
-	font-family: source-han-sans-cjk-ko, sans-serif;
-}*/
 
 body {
 	font-family: GlowSansTC-Normal-Regular, sans-serif;
 }
 
 .post-list li a, h1, h2, h3, h4, h5, h6 {
-  font-family: "Shuei NijimiMGo B JIS2004", "Shuei Maru Fallback", sans-serif;
+  font-family: "Bree Serif", "Shuei NijimiMGo B JIS2004", "Shuei Maru Fallback", sans-serif;
   font-weight: normal;
   font-style: normal;
   /*font-variant-ligatures: common-ligatures;
