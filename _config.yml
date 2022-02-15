@@ -37,7 +37,8 @@ sass:
   sass_dir: _sass
   style: compressed
 disqus_shortname: dorawei
-email: me@dorawei.xyz
+#email: #dorawei.xyz
+email_protected: 8de0e8cde9e2ffecfae8e4a3f5f4f7
 github: dorawei
 steam: dorawei
 google:
