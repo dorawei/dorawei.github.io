@@ -6,12 +6,12 @@
 		var page_url = '{{ page.url | replace:'index.html','' | prepend: site.url }}';
 		window.addEventListener('DOMContentLoaded', function() {
 			$(window).on('scroll',function() {
-			var hT = $('#comment-box-section').offset().top,
-			hH = $('#comment-box-section').outerHeight(),
+			var hT = $('#disqus_thread').offset().top,
+			hH = $('#disqus_thread').outerHeight(),
 			wH = $(window).height(),
 			wS = $(this).scrollTop();
 			if (wS > ((hT+hH-wH)-500)){
-				console.log('comment box section arrived! eh');
+				console.log('disqus div arrived! eh');
 				$(window).off('scroll');
 				var dsqjs = new DisqusJS({
 					shortname: disqus_shortname,
