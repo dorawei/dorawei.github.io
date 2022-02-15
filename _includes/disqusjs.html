@@ -12,7 +12,6 @@
 			wS = $(this).scrollTop();
 			if (wS > ((hT+hH-wH)-500)){
 				console.log('comment box section arrived! eh');
-				// This detaches the scroll so doStuff() won't run more than once
 				$(window).off('scroll');
 				var dsqjs = new DisqusJS({
 					shortname: disqus_shortname,
