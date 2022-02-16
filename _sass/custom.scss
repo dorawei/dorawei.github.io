@@ -1,10 +1,4 @@
 /*fallback & web fonts*/
-
-@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
-@import 'https://webfont.vercel.app/shuei-maru-fallback/fallback-test.css';
-@import 'https://webfont.vercel.app/GlowSansTC-Normal-Regular-0323/css.css', 'https://webfont.vercel.app/GlowSansTC-Normal-Regular-0323/supp.css';
-@import url('https://webfonts.vercel.app/KleeOneTCJPSC210414/css.css');
-
 /* [Yanone Kaffeesatz] */
 @font-face {
   font-family: 'Yanone Kaffeesatz';
@@ -26,7 +20,7 @@ body {
 }
 
 .post-list li a, h1, h2, h3, h4, h5, h6 {
-  font-family: "Bree Serif", "Shuei NijimiMGo B JIS2004", "Shuei Maru Fallback", sans-serif;
+  font-family: "Bree Serif", "GlowSansTC-Condensed-Bold", sans-serif;
   font-weight: normal;
   font-style: normal;
   /*font-variant-ligatures: common-ligatures;
