@@ -87,6 +87,10 @@ a:visited {
 	background-color: #373C38;
 }
 
+p code, li code, p pre, li pre {
+    background-color: #535953;
+    border: 1px solid #d0d1d5;
+}
 /** disqus js css dark theme**/
 #dsqjs a {
     color: #7DB9DE;
