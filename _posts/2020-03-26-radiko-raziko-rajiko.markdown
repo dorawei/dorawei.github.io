@@ -69,8 +69,9 @@ Tips：可以同時安裝 Custom UserAgent String 將 radiko.jp 網站設定爲�
 
 這樣有一個小問題，App 會提示沒有網絡連線，這時按 OK 會自動退出，但返回或按一下其他地方就可以關閉提示正常使用。
 
-# 在 android 上開啓模擬位置
+## 在 android 上開啓模擬位置
 
+（2022年3月更新）
 Raziko 不能正常使用的場合，還可以使用模擬位置來騙過官方 Radiko app：
 
 - 開啓「開發者選項」
@@ -85,15 +86,7 @@ Raziko 不能正常使用的場合，還可以使用模擬位置來騙過官方 
 
 ![radiko android app 東京放送局](https://img.dorawei.xyz/20200326-Radiko/radiko_app_tokyo.png)
 
-## 跳過位置確認
-
-位置確認之後便可關閉 Fake GPS，但 Radiko 每次啓動都需要確認 GPS。如果不想每次都打開 Fake GPS 才能使用 Radiko，可以安裝 Anywhere-，新增一個快捷方式到 jp.radiko.Player.activity.ActStationSelect 便可跳過位置確認。
-
-![anywhre-設定介面](https://img.dorawei.xyz/20200326-Radiko/anywhere_activity.png)
-
-注意：需要先打開 radiko，再返回桌面打開上面那個快捷方式，便可直接播放上次選擇的電台。
-
-此方式需要 root 或 shizuku,詳細請參考 Anywhere- 的使用幫助。使用 radiko.jp for Android 5.0.8 在 android 11 和 12 系統上測試可用，其他版本和環境可能存在差異。
+使用 radiko.jp for Android 5.0.8 在 android 11 和 12 系統上測試可用，其他版本和環境可能存在差異。
 
 
 以上∎ 
