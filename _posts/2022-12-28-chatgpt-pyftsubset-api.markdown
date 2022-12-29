@@ -18,6 +18,8 @@ layout: post
 
 之前就有想自己動手做一個類似 Adobe Fonts (原TypeKit) 或 TypeSquare 這樣根據頁面內容實時產生字體子集 (Dynamic Font Subsetting) 的 WebApp。但沒有專業的 coding 知識似乎很難實現，不過現在有了 ChatGPT 這個似乎什麼都可以做的 AI，尤其是可以根據聊天的指示去寫 code 這個功能，那不如來試着問 ChatGPT 幫手寫一個好了。
 
+[TL;DR](#總結)
+
 # 想法實現和工具
 
 於是新開一個 chat 開始了對話，當問題比較 general 的時候它的回答也很 general：
@@ -341,3 +343,11 @@ Nginx 設定可以參考下面來添加 CORS Policy:
 - call API, 獲得 output.woff2
 - 使用 output.woff2 建立新的 @font-face
 - 文字使用 output.woff2 進行顯示
+
+## ChatGPT Coding Experience
+
+總的來說對於非專業人士還是會很有幫助，可以助力將想法更輕鬆地實現。比如對於一些常見的情景, 即使完全沒學習過的語言也可以由 AI 輕鬆地產生相關 code 來利用，可以大幅提升效率和節省學習時間。但並不能百分百依靠它，需要一定的 coding 常識去 debug。
+
+看起來指令越具體和明確效果就會越好，太抽象和 high-level 的指令可能反而會浪費更多的時間，step by step 去教它也許會有意想不到的收穫。此外對於 Python 這種常見的程式語言出現錯誤的機率似乎會少一些，但涉及到具體的 library 就不好說了（有可能它的知識本身就是錯的）。雖然可以一定程度進行 debug 但不要太相信它（即使它每次都很有自信），還是需要自己多動手去找答案（stackoverflow是個好網站）。
+
+雖然它給你的 code 中可能處處埋雷，但如果調教得好也會是一個得力的助手 ;) ■
